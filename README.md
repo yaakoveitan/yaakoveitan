@@ -18,6 +18,12 @@ Play chess with me! https://lichess.org/@/larrywheels
 
 1. [Shared Use Laundry Room Scheduler](https://github.com/yaakoveitan/Laundry-Scheduler)
 
+### Fun Math Stuff:
+
+#### Monte Carlo Methods:
+
+1.[Estimating the value of pi](https://colab.research.google.com/drive/1iRZZcDwIgPyN0jXyg2CigvGR2tgt6P2H#scrollTo=tCtl36Ofe8Eu)
+
 #### Probability Theory:
 
 1. [Why are casinos mathematically gauranteed to make money?](https://github.com/yaakoveitan/Files/blob/main/DRP%20Poster.pdf)
