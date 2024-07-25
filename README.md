@@ -7,6 +7,9 @@ Play chess with me! https://lichess.org/@/larrywheels
 #### EDA: 
 1. [Citi Bike Usage in NYC](https://github.com/yaakoveitan/Citi-Bike-Analysis/blob/main/Citi%20Bikes.ipynb)
 
+#### Machine Learning:
+1. [Predicting Undervalued Stocks For Long Term Portfolio](https://github.com/yaakoveitan/StonksLLC)
+   
 #### PowerBI:
 1. [Residential Real Estate Sales in Manhattan](https://app.powerbi.com/view?r=eyJrIjoiMzg4OTFmM2QtMDQ4Ny00ZjRhLWFmMmYtODI4MDc5MzJjOTgwIiwidCI6ImE0MDUxZDBmLWYyYTUtNDAxOC1iNTNmLWZhYzdhMzAzMWM0ZSIsImMiOjN9)
 2. [New York City Earned Income Tax Credit Data](https://app.powerbi.com/view?r=eyJrIjoiZWU5NGQwNjQtYjc0ZC00ZmM5LWJmOTgtZWFjYTBkMjNkYzk3IiwidCI6ImE0MDUxZDBmLWYyYTUtNDAxOC1iNTNmLWZhYzdhMzAzMWM0ZSIsImMiOjN9)
