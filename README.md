@@ -20,14 +20,15 @@ Play chess with me! https://lichess.org/@/larrywheels
 
 ### Fun Math Stuff:
 
-#### Monte Carlo Methods:
-
-   [Estimating the value of pi](https://colab.research.google.com/drive/1iRZZcDwIgPyN0jXyg2CigvGR2tgt6P2H#scrollTo=tCtl36Ofe8Eu)
 
 #### Probability Theory:
 
    [Why are casinos mathematically gauranteed to make money?](https://github.com/yaakoveitan/Files/blob/main/DRP%20Poster.pdf)
 
+#### Monte Carlo Methods:
+   
+   [Estimating the value of pi](https://colab.research.google.com/drive/1iRZZcDwIgPyN0jXyg2CigvGR2tgt6P2H#scrollTo=tCtl36Ofe8Eu)
+   [Binomial Probability Distribution](https://colab.research.google.com/drive/19f79Biw0uSTXCGqIfFunNaEuMr7Ww-Sc?usp=sharing)
 
 <!--
 **yaakoveitan/yaakoveitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
