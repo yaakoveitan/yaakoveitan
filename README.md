@@ -5,7 +5,7 @@ Play chess with me! https://lichess.org/@/larrywheels
 ### Here is some fun data stuff i've worked on:
 
 #### EDA: 
-1. CitiBike Usage in NYC
+1. [Citi Bike Usage in NYC](https://github.com/yaakoveitan/Citi-Bike-Analysis/blob/main/Citi%20Bikes.ipynb)
 
 #### PowerBI:
 1. [Residential Real Estate Sales in Manhattan](https://app.powerbi.com/view?r=eyJrIjoiMzg4OTFmM2QtMDQ4Ny00ZjRhLWFmMmYtODI4MDc5MzJjOTgwIiwidCI6ImE0MDUxZDBmLWYyYTUtNDAxOC1iNTNmLWZhYzdhMzAzMWM0ZSIsImMiOjN9)
