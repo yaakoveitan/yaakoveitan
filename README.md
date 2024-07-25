@@ -18,7 +18,7 @@ Play chess with me! https://lichess.org/@/larrywheels
 
    [Shared Use Laundry Room Scheduler](https://github.com/yaakoveitan/Laundry-Scheduler)
 
-### Fun Math Stuff:
+### Fun math topics:
 
 
 #### Probability Theory:
