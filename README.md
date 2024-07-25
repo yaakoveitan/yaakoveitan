@@ -5,7 +5,7 @@ Play chess with me! https://lichess.org/@/larrywheels
 ### Here is some fun data stuff i've worked on:
 
 #### EDA: 
-1. [Citi Bike Usage in NYC](https://github.com/yaakoveitan/Citi-Bike-Analysis/blob/main/Citi%20Bikes.ipynb)
+1. [Citi Bike Usage in NYC](https://github.com/yaakoveitan/Files/blob/main/Citi%20Bikes.ipynb)
 
 #### Machine Learning:
 1. [Predicting Undervalued Stocks For Long Term Portfolio](https://github.com/yaakoveitan/StonksLLC)
@@ -17,6 +17,10 @@ Play chess with me! https://lichess.org/@/larrywheels
 #### Software Development:
 
 1. [Shared Use Laundry Room Scheduler](https://github.com/yaakoveitan/Laundry-Scheduler)
+
+#### Probability Theory:
+
+1. [Why are casinos mathematically gauranteed to make money?](https://github.com/yaakoveitan/Files/blob/main/DRP%20Poster.pdf)
 
 
 <!--
