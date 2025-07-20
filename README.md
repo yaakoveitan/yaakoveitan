@@ -6,6 +6,7 @@ Play chess with me! https://lichess.org/@/larrywheels
 
 #### EDA: 
    [How a Misleading Graph Fueled 2020 Election Myths—And What the Data Actually Says](https://yaakoveitan.substack.com/p/how-a-misleading-graph-fueled-2020)
+   
    [Citi Bike Usage in NYC](https://github.com/yaakoveitan/Files/blob/main/Citi%20Bikes.ipynb)
 
 #### Machine Learning:
